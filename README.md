@@ -9,7 +9,7 @@
 6. Wait for GitHub Pages to publish. Open the HTTPS URL GitHub shows.
 
 ## Install on Android
-1. Open the HTTPS Pages URL in Chrome.
+1. Open the https://nihad-006.github.io/agoal-tracker/ Pages URL in Chrome.
 2. Tap ⋮ → **Install app** (or **Add to Home screen**).
 3. Confirm Install.
 
